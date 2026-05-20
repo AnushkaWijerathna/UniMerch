@@ -107,7 +107,9 @@ npm start
 * 2021/ICT/93  - Bisrul Salman
 * 2021/ICT113  - Thamilselvam Thishanthani
 * 2021/ICT/121 - Kabijake
-  (Department of Physical Science ,Faculty of Applied Science University Of Vavuniya)
+  
+**(Department of Physical Science, Faculty of Applied Science, University Of Vavuniya)**
+
 ---
 
 ## 📄 License
